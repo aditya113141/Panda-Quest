@@ -6,7 +6,7 @@ You loved Flappy Birds, right?....Well, you will surely love this one too.
 2. Install pygame 1.9.6 from [here](https://pypi.org/project/pygame/).
 3. Clone the repository:
     ```bash
-   $ git clone https://github.com/aditya113141/
+   $ git clone https://github.com/aditya113141/Panda-Quest.git
    ```
    or download zip and extract.
 4. In the root directory run
