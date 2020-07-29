@@ -14,7 +14,7 @@ You loved Flappy Birds, right?....Well, you will surely love this one too.
     $ python3 Panda_Quest.py
     ```
 ### Objective
-  1.Dodge the pipe and collect cherries.
+  1.Dodge the pipes and collect cherries.
 ### Instructions
 1. Press <kbd>&uarr;</kbd> or <kbd>Space</kbd> to play and <kbd>Esc</kbd> to close the game.
 2. Press <kbd>M</kbd> to mute/unmute the music.
