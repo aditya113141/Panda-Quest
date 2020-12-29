@@ -1,6 +1,10 @@
 # Panda-Quest
 You loved Flappy Birds, right?....Well, you will surely love this one too.
 
+<div align="center">
+  <img src="/assets/Screenshot.png">
+</div>
+
 ## How
 1. Install python 3.x form [here](https://www.python.org/download/releases/).
 2. Install pygame 1.9.6 from [here](https://pypi.org/project/pygame/).
