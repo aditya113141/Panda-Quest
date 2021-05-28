@@ -1,5 +1,5 @@
 # Panda-Quest
-You loved Flappy Birds, right?....Well, you will surely love this one too.
+ You loved Flappy Birds, right?....Well, you will surely love this one too.
 
 <div align="center">
   <img src="/assets/Screenshot.png">
